@@ -17,11 +17,11 @@
 "alumnos" : [
         {
             
-            "Nombre":"Alberto",
-            "email" :"albertomozodocente@gmail.com",    
-            "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
-            "github" : "albertomozo",
-            "url" :"https://albertomozo.infinityfreeapp.com/?i=1",
+            "Nombre":"Jose Malaver",
+            "email" :"malaversjd@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/josemalaversosa",
+            "github" : "Josedmas",
+            "url" :"",
             "imagen" : "",
             "descripcion" : "es un proyecto",
             "inicio" : {    
@@ -31,7 +31,7 @@
                 "Github" : 0,
                 "Programacion" : 0,
                 "XML" : 0,
-                "PowerBI" : 0,
+                "PowerBI" : 1,
                 "Cloud" : 0
             },
             "fin" : {    
@@ -47,10 +47,10 @@
         },
         {
             
-            "Nombre":"Alberto dev",
-            "email" :"albertomozodesarrollador@gmail.com",    
+            "Nombre":"Alumno2",
+            "email" :"malaversjs406@gmail.com",    
             "linked" : "",
-            "github" : "albertomozodev",
+            "github" : "",
             "url" :"",
             "imagen" : "",
             "descripcion" : "es un proyecto",
@@ -59,10 +59,10 @@
                     "Base de datos" : 0,
                 "SQL" : 0,
                 "Github" : 0,
-                "Programacion" : 0,
+                "Programacion" : 1,
                 "XML" : 0,
                 "PowerBI" : 0,
-                "Cloud" : 0
+                "Cloud" : 1
             },
             "fin" : {    
                 "Sistemas Operativos":0,
