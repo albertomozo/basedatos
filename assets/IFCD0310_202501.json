@@ -45,13 +45,14 @@
         },
         {
             
-            "Nombre":"Alberto dev",
-            "email" :"albertomozodesarrollador@gmail.com",    
-            "linked" : "",
-            "github" : "BiaBib1",
-            "url" :"http://biabibi.wuaze.com/2025/02/21/organization-project/",
+
+            "Nombre":"Jose Malaver",
+            "email" :"malaversjd@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/josemalaversosa",
+            "github" : "Josedmas",
+
             "imagen" : "",
-            "descripcion" : "es un proyecto",
+            "descripcion" : "prueba",
             "inicio" : {    
                     "Sistemas Operativos":0,
                     "Base de datos" : 0,
@@ -138,9 +139,11 @@
                 "Base de datos" : 2,
                 "SQL" : 3,
                 "Github" : 0,
-                "Programacion" : 3,
-                "XML" : 1,
-                "PowerBI" : 0,
+
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 1,
+
                 "Cloud" : 0
             },
             "fin" : {    
@@ -161,10 +164,17 @@
 },
 {
             
+
+            "Nombre":"Alumno2",
+            "email" :"malaversjs406@gmail.com",    
+            "linked" : "",
+            "github" : "",
+
             "Nombre":"Fanny",
             "email" :"fgirond14@gmail.com",    
             "linked" : "https://www.linkedin.com/in/fanny-giron-49b03834a/",
             "github" : "fannyby",
+
             "url" :"",
             "imagen" : "",
             "descripcion" : "es un proyecto",
@@ -173,10 +183,10 @@
                     "Base de datos" : 0,
                 "SQL" : 0,
                 "Github" : 0,
-                "Programacion" : 0,
+                "Programacion" : 1,
                 "XML" : 0,
                 "PowerBI" : 0,
-                "Cloud" : 0
+                "Cloud" : 1
             },
             "fin" : {    
                 "Sistemas Operativos":0,
@@ -189,7 +199,33 @@
                 "Cloud" : 0              
             }
         }
-    
+                "Nombre":"Jose Malaver",
+            "email" :"malaversjd@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/josemalaversosa",
+            "github" : "Josedmas",
+            "url" :"",
+            "imagen" : "",
+            "descripcion" : "prueba",
+            "inicio" : {    
+                    "Sistemas Operativos":0,
+                    "Base de datos" : 0,
+                "SQL" : 0,
+                "Github" : 0,
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 1,
+                "Cloud" : 0
+            },
+            "fin" : {    
+                "Sistemas Operativos":0,
+                    "Base de datos" : 0,
+                "SQL" : 0,
+                "Github" : 0,
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 0,
+                "Cloud" : 0    
+            },
         
    
     ]
