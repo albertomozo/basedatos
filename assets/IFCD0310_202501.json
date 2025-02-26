@@ -1,16 +1,16 @@
 {"curso":"IFCD0301_202402",
-"fecha inicio" : "2025-01-21",
-"fecha fin" : "2025-06-25",
-"denominación" : "Administración de Base de datos",
-"url_drive" : "https://docs.google.com/presentation/d/1Bv8exKqAShHthNHgcz0GTCq0cfH4gd8pt5-RcSocr1g/edit?usp=sharing",
-"Localizacion" : "URKO - Egia-Donosti",
-"url_LMS" : "https://classroom.google.com/c/NzQ1Mzc2MDgyNjU0?cjc=3x5p6ld",
+ "fecha inicio" : "2025-01-21",
+ "fecha fin" : "2025-06-25",
+ "denominación" : "Administración de Base de datos",
+ "url_drive" : "https://docs.google.com/presentation/d/1Bv8exKqAShHthNHgcz0GTCq0cfH4gd8pt5-RcSocr1g/edit?usp=sharing",
+ "Localizacion" : "URKO - Egia-Donosti",
+ "url_LMS" : "https://classroom.google.com/c/NzQ1Mzc2MDgyNjU0?cjc=3x5p6ld",
 
 "tutor":
     {"Nombre":"Alberto Mozo",
-        "email" : "albertomozodedev@gmail.com",
-        "linked" : "",
-        "github" : "https://github.com/albertomozo"
+     "email" : "albertomozodedev@gmail.com",
+     "linked" : "",
+     "github" : "https://github.com/albertomozo"
     },
 "alumnos" : [
         {
@@ -76,7 +76,6 @@
             }
         },
         {
-            
             "Nombre":"Juan de la Morena",
             "email" :"delamorena.dataanalyst@gmail.com",    
             "linked" : "",
@@ -87,12 +86,12 @@
             "inicio" : {    
                     "Sistemas Operativos":2,
                     "Base de datos" : 2,
-                "SQL" : 2,
-                "Github" : 3,
-                "Programacion" : 3,
-                "XML" : 0,
-                "PowerBI" : 0,
-                "Cloud" : 0
+                    "SQL" : 2,
+                    "Github" : 3,
+                    "Programacion" : 3,
+                    "XML" : 0,
+                    "PowerBI" : 0,
+                    "Cloud" : 0
             },
             "fin" : {    
                     "Sistemas Operativos":4,
