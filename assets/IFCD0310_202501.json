@@ -75,7 +75,33 @@
                 "Cloud" : 0              
             }
         }
-    
+                "Nombre":"Jose Malaver",
+            "email" :"malaversjd@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/josemalaversosa",
+            "github" : "Josedmas",
+            "url" :"",
+            "imagen" : "",
+            "descripcion" : "prueba",
+            "inicio" : {    
+                    "Sistemas Operativos":0,
+                    "Base de datos" : 0,
+                "SQL" : 0,
+                "Github" : 0,
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 1,
+                "Cloud" : 0
+            },
+            "fin" : {    
+                "Sistemas Operativos":0,
+                    "Base de datos" : 0,
+                "SQL" : 0,
+                "Github" : 0,
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 0,
+                "Cloud" : 0    
+            },
         
    
     ]
