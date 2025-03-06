@@ -1,0 +1,45 @@
+<script>
+    /*****************************************
+     *     Copyright A. Mozo                 *
+     *     PROGRAMA PROMEDIO                 * 
+     * ***************************************/
+    
+    
+    
+    /* INICIALIZACION DEL PROGRAMA */
+    continuar = 'SI';
+    let total = 0;
+    let items = 0;
+    console.log('introduce numeros para calcular la media. Pulsa f para terminar')
+    alert('introduce numeros para calcular la media. Pulsa f para terminar');
+    /* SOLCITIDUD Y ACUMULACIO DE VALORES */
+    while (continuar == 'SI') {
+        
+        let numero = prompt('Introduce un número:');// PIDE NUMERO
+        console.log(numero);
+        if (numero == 'f')
+        { continuar = 'NO'}
+        else{
+            total += int(numero); 
+            //total = total + numero; 
+            items++;
+            //items = items + 1;
+
+        }
+        
+    }
+    
+    /* CALCULO DE LA MEDIA */
+    let media = total / items;
+    
+    /* MOSTRAR EL RESULTADO */
+    console.log('La media de los valores introducidos es:'+ media);
+
+
+
+
+
+
+
+
+</script>
