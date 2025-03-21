@@ -20,6 +20,10 @@ Repositorio para mantener la información del certificado de profesionalidad IFC
     * UF1472: Lenguajes de definición y modificación de datos SQL (60 horas)
     * UF1473: Salvaguarda y seguridad de los datos (70 horas)
 
+## Documentación adicional
+
+### [SQLite guía rápida](./SQLite/sqlite-presentacion.md)
+
 
 🚀 Comenzamos una nueva aventura 
 Vamos a aprender mucho 
