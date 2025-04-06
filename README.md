@@ -24,6 +24,8 @@ Repositorio para mantener la información del certificado de profesionalidad IFC
 
 ### [SQLite guía rápida](./SQLite/sqlite-presentacion.md)
 
+### [procedimientos almacenados](./procedimientos/)
+
 
 🚀 Comenzamos una nueva aventura 
 Vamos a aprender mucho 

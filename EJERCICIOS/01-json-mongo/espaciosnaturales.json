@@ -1,0 +1,100 @@
+[
+	{
+		"id":1,
+		"nombre" : "cañon del rio Lobos",
+		"descripcion" : "es un Parque Natural constituido por un cañón de 25 km que discurre tanto por Soria como por Burgos.",
+		"foto" : "https://fotoanimales.files.wordpress.com/2022/02/img_3005-copia.jpg",
+		"localizacion" : "Soria Burgos",
+		"latitud":	41.77577,
+		"longitud":	-3.03449,
+		"googlemaps" : "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d91721.41199752373!2d-3.1063127275998563!3d41.79063357505719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2ses!4v1711271455200!5m2!1ses!2ses\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+		"fotoanimales" :"https://fotoanimales.wordpress.com/soria",
+		"info" : {
+
+		}
+	},
+	{
+		"id":2,
+		"nombre" : "Estepas de Belchite",
+		"descripcion" : "El paisaje de las estepas, está constituido por pequeñas colinas entre grandes planicies y de formaciones abruptas y bastante altas que muchas veces crean sucesiones de lomas en las que también se crean diminutos valles y cárcavas ",
+		"foto" : "https://fotoanimales.files.wordpress.com/2020/12/zaragoza-2.jpg",
+		"localizacion" : "Zaragoza",
+		"latitud":	41.37445,
+		"longitud":	-0.63979,
+		"fotoanimales" :"https://fotoanimales.wordpress.com/zaragoza"
+
+	},
+	{
+		"id":3,
+		"nombre" : "Albarracín",
+		"descripcion" : "Albarracín aparte de su fama paleontológica y cultural también tiene una rica fauna. Además de sus característicos extensos bosques de pino, también están presentes las abundantes parameras del sistema ibérico en zonas más bajas, Seguidos por sabinares, Encinares y finalmente Campos de cultivo. Esta sierra tiene además bastantes nacederos de río por lo que la sierra esta repleta de agua, esto a su vez crea numerosos cortados y cañones.",
+		"foto" : "https://fotoanimales.files.wordpress.com/2020/12/dsc01776albarracin-copia.jpg?",
+		"localizacion" : "Teruel",
+		"latitud":	40.44833,
+		"longitud":	-1.65198,
+		"fotoanimales" :"https://fotoanimales.wordpress.com/teruel"
+
+	},
+	{
+		"id":4,
+		"nombre" : "Sierra de la Culebra",
+		"descripcion" : "La Sierra de la Culebra es una sierra del noroeste de Zamora que está pegando con Portugal. En está sierra aparte de una rica población de ungulados, está la mayor concentración de lobo ibérico de la península, aunque el bosque sea de reforestación en su gran mayoría en algunas zonas hay robledales salvaje. grandes extensiones de brezo y en algunas zonas dehesas. Está sierra es pedregosa en las puntas, habilitando las presencias de las rapaces. Además de los ungulados y el Lobo en esta sierra también son comunes los Zorros, Nutrias, Gatos monteses y Liebres.",
+		"foto" : "https://fotoanimales.files.wordpress.com/2020/12/sierra_-de_-la_culebra-1.jpg",
+		"localizacion" : "Zamora",
+		"latitud":	41.98163,
+		"longitud":	 -6.41229,
+		"googlemaps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d129466.53864005016!2d-6.403226113824015!3d41.91261516365809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd39861b5183404d%3A0xfae7a1070497fd43!2sSierra%20de%20la%20Culebra!5e1!3m2!1ses!2ses!4v1711284433606!5m2!1ses!2ses\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+		"fotoanimales" :"https://fotoanimales.wordpress.com/zamora"
+
+	},
+	{
+		"id":5,
+		"nombre" : "Lagunas de Villafafila",
+		"descripcion" : "Villafafila es una llanura de campos de cultivo que tiene lagunas estacionales. Al contrario de la culebra está al este de Zamora pegando con Valladolid. En Villafafila además de las aves acuáticas que vienen a las lagunas cuando están llenas, hay muchas aves esteparias, Aguiluchos Cenizos, Laguneros y Pálidos también hay Cernícalos de los dos tipos y las Avutardas son fáciles de ver.",
+		"foto" : "https://fotoanimales.files.wordpress.com/2020/12/avutardas_5.jpg",
+		"localizacion" : "Zamora",
+		"latitud":	41.98163,
+		"longitud":	 -6.41229,
+		"googlemaps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d129466.53864005016!2d-6.403226113824015!3d41.91261516365809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd39861b5183404d%3A0xfae7a1070497fd43!2sSierra%20de%20la%20Culebra!5e1!3m2!1ses!2ses!4v1711284433606!5m2!1ses!2ses\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+		"fotoanimales" :"https://fotoanimales.wordpress.com/zamora"
+
+	},
+	{
+		"id":6,
+		"nombre" : "Gallocanta",
+		"descripcion" : "Esta laguna situada entre Teruel y Zaragoza es una laguna estacional endorreica, rodeada por campos de cultivo y bosques de dehesas. Este ambiente es perfecto para las Grullas este siendo su zona de paso mas utilizada en España. También en la laguna y sus alrededores son posibles de ver otros tipos de aves acuáticas como Garzas, Fochas, Somormujos, y aves esteparias como Avutardas, Sisones o Cernícalos. No hay una laguna por esa zona, hay otras más pequeñas dispersas, estas sirven para dar cobijo a aún más aves.",
+		"foto" : "https://fotoanimales.wordpress.com/wp-content/uploads/2022/02/dsc02798-copia.jpg",
+		"localizacion" : "Zaragoza Teruel",
+		"latitud":	40.9679114,
+		"longitud":	 -1.4905139,
+		"googlemaps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d62510.14183047187!2d-1.4905139187697218!3d40.967911367555594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1711708979546!5m2!1ses!2ses\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+		"fotoanimales" :"https://fotoanimales.wordpress.com/zaragoza"
+
+	},
+	{
+		"id":7,
+		"nombre" : "Delta del Ebro",
+		"descripcion" : "El Delta del Ebro es seguramente el segundo humedal más importante tras Doñana. Este Delta esta conformado por la desembocadura del Ebro ( Que se separa en diferentes ramas), lagunas profundas y no profundas, saladas y dulces las cuales están rodeadas de vegetación palustre, También hay de salobrales y arrozales. Todos estos ecosistemas conforma un lugar ideal para las aves siendo destacables El Calamón, La Garza Imperial, Garza real, Garceta Grande, Garcillas bueyera, comunes y cangrejeras, Gallinetas, Fochas, Zarapitos, Flamencos, Moritos, Diferentes especies de patos siendo destacable el Tarro blanco, Somormujos En los últimos años la falta de sedimentos creada por los embalses y unos recientes temporales han reducido el tamaño del Delta de manera considerable..",
+		"foto" : "https://fotoanimales.wordpress.com/wp-content/uploads/2022/03/dsc09621-copia.jpg",
+		"localizacion" : "Tarragona",
+		"latitud":	40.714788438251034, 
+		"longitud":	 0.639786345062217,
+		"googlemaps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d149252.8805161545!2d0.6742022858688028!3d40.71077506905078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1711909008522!5m2!1ses!2ses\" width=\"60\" height=\"45\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+		"fotoanimales" :"https://fotoanimales.wordpress.com/cataluna/?preview_id=52&preview_nonce=2b17defbad&preview=true"
+		
+		
+	},
+	{
+		"id":8,
+		"nombre" : "Riaño",
+		"descripcion" : "Las montañas de Riaño se encuentran al sur de los Picos de Europa, esto ayuda para que no se masifiquen de gente. En estás montañas hay varias zonas de reserva en las que esta prohibida la entrada. El embalse del Riaño crea un paisaje idílico al que se denomina como los fiordos leoneses, pero este embalse tiene un turbio pasado de protestas y manifestaciones y de pueblos desaparecidos y privados de sus tierras. Desde el punto de vista ecológico estas montañas son uno de los mejores lugares españoles para disfrutar de la fauna de montaña. En estas recónditas montañas habitan dos de los últimos grandes representantes de la fauna cantábrica los Osos que encuentran aquí una de las zonas más importantes de su población oriental y el urogallo cantábrico que esta al borde de la extinción. Estas montaña están cubiertas por masas de roble, haya, matorral y en pequeñas zonas pinares. Los prados de siega tienen un valor ecológico especial porque son los mejores sitios de España para ver Gato montés. Entre la fauna de alta montaña destacan los Rebecos y Cabras montesas. En los bosques los Ciervos, Jabalís, Corzos, Lobos, Zorros, Martas, Corzos son abundantes. En el agua se pueden encontrar Nutrias.",
+		"foto" : "https://fotoanimales.wordpress.com/wp-content/uploads/2023/04/img_0181-copia.jpg",
+		"localizacion" : "Leon",
+		"latitud":	40.714788438251034, 
+		"longitud":	 0.639786345062217,
+		"googlemaps": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80865.55691988106!2d-5.061068241188611!3d42.96494329630969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd48296e361d25f7%3A0xfc362a8823ae022d!2zMjQ5MDAgUmlhw7FvLCBMZcOzbg!5e0!3m2!1ses!2ses!4v1711956699844!5m2!1ses!2ses\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+		"fotoanimales" :"https://fotoanimales.wordpress.com/leon-2/"
+		
+		
+	}
+]
