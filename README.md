@@ -1,4 +1,4 @@
-# BASE DE DATOS. IFCD0310
+# BASE DE DATOS. IFCD0310 en general
 Repositorio para mantener la información del certificado de profesionalidad IFCT0310 - **Administrador de Base de Datos**
 [Indice documentación (presentación Google)](https://docs.google.com/presentation/d/1yrxMqwIv4lkUsP8WN6mQDHwv0MbggUKrgXNLzzGTG5w/edit?usp=sharing)
 
