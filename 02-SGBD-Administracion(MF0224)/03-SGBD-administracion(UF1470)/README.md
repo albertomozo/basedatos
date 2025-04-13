@@ -1,10 +1,10 @@
-# UF1469 SGDB e instalación
+# UF1470 SGDB  Administración 
 
 Acceso a a documentación en Drive
 
-https://docs.google.com/presentation/d/1MR0dxJJOcG6tW2PQMxfQ0MnfHHqG_Nit2suWNvtibbk/edit?usp=sharing
+https://docs.google.com/presentation/d/1bPJSSWdlhelj-_vgKXu9fXUfMULeLx9Ph4PEjt9oZqk/edit?usp=sharing
+
 
 
 ## DOCUMENTOS
 
-[Comparativa entre SGBD (MariaDB, PostgreSQL, SQLite)](./comparativa-SGBGD-relacionales.md)
