@@ -1,6 +1,6 @@
 # Script SQL Básico para Gestión de Usuarios en MariaDB (sin procedimientos almacenados)
 
-Aquí tienes un script SQL sencillo que tus alumnos pueden entender fácilmente, sin usar procedimientos almacenados:
+script SQL sencillo, sin usar procedimientos almacenados:
 
 ```sql
 -- Script para crear usuario y base de datos en MariaDB (alojamiento compartido)

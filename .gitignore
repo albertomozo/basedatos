@@ -4,3 +4,6 @@
 .DS_store
 # Ignora la carpeta node_modules
 node_modules
+# Ignora la carpeta .venv
+#El entorno virtual .venv contiene información específica de las dependencias de tu proyecto y la versión de Python que estás utilizando en tu sistema. Esta información puede variar de máquina en máquina, lo que puede causar problemas si se intenta compartir el entorno virtual directamente en el repositorio.
+.venv
