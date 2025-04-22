@@ -1,7 +1,7 @@
 import sqlite3
 
 def crear_conexion():
-    conn = sqlite3.connect('mi_base_de_datos.db')
+    conn = sqlite3.connect('./SQLite/PYTHON/crud.db')
     return conn
 
 def crear_tabla(conn):

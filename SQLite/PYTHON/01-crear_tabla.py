@@ -1,7 +1,7 @@
 import sqlite3
 
 # Conectar a la base de datos (si no existe, la crea)
-conn = sqlite3.connect('mi_base_de_datos.db')
+conn = sqlite3.connect('./SQLite/PYTHON/alb.db')
 cursor = conn.cursor()
 
 # Crear una tabla

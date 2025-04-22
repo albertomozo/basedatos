@@ -54,7 +54,7 @@ function eliminarEstudiante(id) {
 
 // === Ejemplos de uso (puedes comentar/descomentar según necesidad) ===
 
-//crearEstudiante("Laura", "García", 22, 8.5);
+crearEstudiante("Laura", "García", "laura", 8.5);
 //leerEstudiantes();
 //actualizarEstudiante(1, "Laura", "Pérez", 23, 9.1);
 //eliminarEstudiante(1);

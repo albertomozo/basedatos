@@ -183,6 +183,7 @@ public class SQLiteEjemplo {
 
 ---
 
+
 ## Limitaciones de SQLite
 
 - No es adecuado para aplicaciones con:
@@ -204,6 +205,9 @@ SQLite utiliza **tipado dinámico** con 5 clases de almacenamiento:
 5. **BLOB**: datos binarios tal como se introdujeron
 
 ---
+
+SQLite no tiene un tipo de dato dedicado para fechas (`DATE` o `DATETIME`). Sin embargo, ofrece varias estrategias y funciones para almacenar y manipular valores de fecha y hora de manera eficiente y flexible
+[Fechas en SQLite](./SQLite-fechas.md)
 
 ## Herramientas visuales para SQLite
 
