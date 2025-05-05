@@ -1,9 +1,6 @@
-Por supuesto, Alberto, aquí tienes un resumen estructurado y claro sobre todo lo que hemos tratado en esta conversación. Este documento de trabajo está diseñado para ayudarte a desarrollar e integrar tus datos en MongoDB, optimizar tus fuentes, y centralizar toda tu información.
-
----
-
 ## **Resumen: Gestión e integración de fuentes de datos**
-
+**Autor**: Alberto Mozo (Perplexity IA)
+**Fecha**: 2025-05-04
 ### **1. Uso de MongoDB**
 **Motivación:**
 - MongoDB es ideal para gestionar datos en formato JSON, ya que es una base de datos NoSQL orientada a documentos.
