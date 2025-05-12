@@ -39,5 +39,50 @@ Ficheros JSON a MongoDB
 ### [NODE.JS](./NODE.JS/)
 
 
-🚀 Comenzamos una nueva aventura 
-Vamos a aprender mucho 
+## ESQUEMA
+
+```mermaid
+flowchart TD
+ subgraph Datos["Datos"]
+        A["Tablas"]
+        B["Vistas"]
+        C["Filas/Tuplas"]
+        D["Columnas/Atributos"]
+        E["Dominios"]
+        F["Particiones"]
+  end
+ subgraph Estructura["Estructura"]
+        G["Esquemas"]
+        H["Índices"]
+        I["Restricciones"]
+        J["Tipos de Datos"]
+  end
+ subgraph Programación["Programación"]
+        K["Procedimientos Almacenados"]
+        L["Funciones"]
+        M["Triggers"]
+        N["Paquetes"]
+  end
+ subgraph Seguridad["Seguridad"]
+        O["Usuarios"]
+        P["Roles"]
+        Q["Permisos/Privilegios"]
+  end
+ subgraph Administración["Administración"]
+        R["Espacios de Tabla"]
+        S["Esquemas de Almacenamiento"]
+        T["Jobs/Tareas Programadas"]
+        U["Auditoría"]
+  end
+ subgraph No_Relacionales_Ejemplos["No_Relacionales_Ejemplos"]
+        V["Colecciones"]
+        W["Documentos"]
+        X["Grafos"]
+        Y["Series de Tiempo"]
+  end
+    A --> C & D
+    Datos --> Estructura & Programación
+    Estructura --> Seguridad
+    Administración --> Seguridad
+    Seguridad --> n1["Untitled Node"]
+```
