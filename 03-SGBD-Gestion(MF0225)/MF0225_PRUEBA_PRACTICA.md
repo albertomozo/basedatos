@@ -1,12 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# Como este enunciado tiene que cumplir con las especificaciones  modulo MF02250 del certificado de profesionalidad IFCT0310, te paso los contenidos en el fichero adjunto para me crees un enunciado que cumplas las especificaciones, una rubrica.
-
-A continuación tienes un **enunciado de proyecto final** y una **rúbrica de evaluación** adaptados al módulo MF0225_3 “Gestión de bases de datos” del certificado de profesionalidad IFCT0310, conforme a los contenidos y criterios de realización recogidos en el BOE y el documento adjunto[^1].
-
----
-
-## **Enunciado del Proyecto Final**
+# **Enunciado del Proyecto Final**
 
 **Título:**
 Diseño, creación y administración de una base de datos relacional para la gestión de información en un entorno realista
@@ -38,7 +30,7 @@ El alumno deberá diseñar y desarrollar una base de datos relacional que resuel
 
 ---
 
-## **Rúbrica de Evaluación**
+# **Rúbrica de Evaluación**
 
 | Criterio | Excelente (10-9) | Notable (8-7) | Aprobado (6-5) | Insuficiente (<5) |
 | :-- | :-- | :-- | :-- | :-- |
@@ -53,7 +45,7 @@ El alumno deberá diseñar y desarrollar una base de datos relacional que resuel
 
 ---
 
-### **Notas adicionales**
+## **Notas adicionales**
 
 - El proyecto debe evidenciar el dominio de los contenidos del módulo: modelado, implementación, administración, seguridad y documentación.
 - Se valorará la originalidad del caso propuesto y la capacidad de adaptación de la base de datos a necesidades reales.
@@ -61,13 +53,9 @@ El alumno deberá diseñar y desarrollar una base de datos relacional que resuel
 
 ---
 
-Esta propuesta cumple con las especificaciones del módulo MF0225_3 y permite evaluar las competencias clave del certificado IFCT0310[^1].
+Esta propuesta cumple con las especificaciones del módulo MF0225_3 y permite evaluar las competencias clave del certificado IFCT0310
 
----[^1] IFCT0310.pdf, BOE-A-2011-19503, contenidos y criterios de realización del módulo MF0225_3.
 
-<div style="text-align: center">⁂</div>
 
-[^1]: IFCT0310.pdf
 
-[^2]: IFCT0310.pdf
 
