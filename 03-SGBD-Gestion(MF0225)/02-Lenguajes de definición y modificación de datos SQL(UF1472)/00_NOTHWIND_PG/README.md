@@ -48,19 +48,27 @@ psql --version
    cd northwind_psql
    ```
 
-2. **Crear la base de datos**:
+2. Acceder al cliente psql
+   ```bash
+   psql -U postgres
+
+3. **Crear la base de datos**:
    ```bash
    createdb northwind
    ```
 
-3. **Importar datos**:
+4. **Salor del cliente psql**
    ```bash
-   psql -d northwind -f northwind.sql
+   quit
+   ```
+5. **Importar datos**:
+   ```bash
+   psql -U postgres -d northwind -f northwind.sql
    ```
 
-4. **Verificar tablas**:
+6. **Verificar tablas**:
    ```bash
-   psql -d northwind -c "\dt"
+   psql -U postgres -d northwind -c "\dt"
    ```
 
 ---
