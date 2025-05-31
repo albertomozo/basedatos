@@ -47,11 +47,7 @@ ALTER TABLE orders ADD CONSTRAINT fk_orders_customer FOREIGN KEY (customer_id) R
 
 ---
 
-### **🚀 Siguientes pasos**
-Si quieres que analice en más detalle alguna tabla específica o proponiendo mejoras más avanzadas, dime. También podemos hacer pruebas de rendimiento con **EXPLAIN ANALYZE** en consultas reales. ¡Vamos a hacer que esta BD sea más eficiente! 💪🔥
-¡Gracias, Alberto! Con esta parte del esquema, puedo hacer un análisis sobre cómo funciona la base de datos Northwind en PostgreSQL y sugerir mejoras evidentes.  
-
----
+--
 
 ## **🔎 Análisis del esquema actual**  
 ### **1️⃣ Diseño y estructura de la BD**
@@ -96,7 +92,3 @@ Actualmente, las tablas tienen identificadores pero sin restricciones. Agregar `
 ALTER TABLE orders ADD CONSTRAINT fk_orders_customer FOREIGN KEY (customer_id) REFERENCES customers(customer_id);
 ```
 
----
-
-### **🚀 Siguientes pasos**
-Si quieres que analice en más detalle alguna tabla específica o proponiendo mejoras más avanzadas, dime. También podemos hacer pruebas de rendimiento con **EXPLAIN ANALYZE** en consultas reales. ¡Vamos a hacer que esta BD sea más eficiente! 💪🔥
