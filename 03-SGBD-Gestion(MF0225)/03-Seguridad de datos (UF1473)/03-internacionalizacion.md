@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# relacionado con toso esto, como debería adaptarme al internacionalizar un sistema de información
+# internacionalizar un sistema de información
 
 Al internacionalizar un sistema de información, es fundamental adaptar tanto los procesos como la infraestructura tecnológica para cumplir con estándares y normativas reconocidas globalmente, garantizando así la calidad, seguridad y confianza en mercados internacionales. La adopción de normas ISO específicas para la gestión de la información y la seguridad de los datos es clave en este proceso, ya que permite hablar un “lenguaje común” con clientes, socios y reguladores de cualquier país[^6][^7].
 
