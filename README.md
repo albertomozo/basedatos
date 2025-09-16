@@ -297,3 +297,5 @@ Este proyecto está bajo la Licencia MIT
 <div align="center">
 <sub>💡 <strong>Tip:</strong> Si este repositorio te ha sido útil, ¡considera darle una estrella! ⭐</sub>
 </div>
+-----
+&copy; 2025
